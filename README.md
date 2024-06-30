@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul2oct" alt="atul2oct" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/brigadieratul" target="blank"><img src="https://img.shields.io/twitter/follow/brigadieratul?logo=twitter&style=for-the-badge" alt="brigadieratul" /></a> </p>
-
 - 🌱 I’m currently learning **NextJs, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brigadieratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brigadieratul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brigadieratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brigadieratul" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atul2oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atul2oct" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/wwwmyfoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="wwwmyfoot" height="30" width="40" /></a>
