@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NextJs, Typescript**
 
-- 🤝 I’m looking for help with [StudyNotion-EdTech-Project i need help in payment when parchasing multiple item i'm using razorpay api](https://github.com/atul2oct/StudyNotion-EdTech-Project)
-
 - 💬 Ask me about **HTML CSS TAILWINDCSS JAVASCRIPT React AND EPRESSJS**
 
 - 📫 How to reach me **atulcsjob@gmail.com**
