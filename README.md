@@ -79,6 +79,6 @@
 ## 📈 Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=atul2oct&layout=compact&theme=dracula&langs_count=10)
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=atul2oct&show_icons=true&theme=dracula)
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atul2oct&show_icons=true&theme=dracula)
 
-![Aman's Streak](https://streak-stats.demolab.com/?user=atul2oct&theme=dracula)
+![Atul's Streak](https://streak-stats.demolab.com/?user=atul2oct&theme=dracula)
