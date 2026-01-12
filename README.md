@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul2oct" alt="atul2oct" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, Typescript**
+- 🌱 I’m currently learning **NextJs, Typescript, Springboot**
   
 - 💬 Ask me about **(HTML CSS TAILWINDCSS JAVASCRIPT React AND EPRESSJS) MERN | DSA**
 
