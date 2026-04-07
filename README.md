@@ -15,7 +15,7 @@ I'm a passionate web developer with a strong proficiency in the MERN stack and a
 
 <p align="left">
   <img 
-    src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=atul2oct&theme=dracula&row=1&column=5" height="110"
+    src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=atul2oct&theme=dracula&row=1&column=4" height="110"
   />
 </p>
 
