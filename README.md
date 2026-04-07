@@ -2,15 +2,25 @@
 
 &nbsp;
 
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="350" 
+     src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
-<h3 align="center">I'm a passionate web developer with a strong proficiency in the MERN stack and a wide range of front-end technologies. I enjoy building efficient, scalable, and user-friendly web applications.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atul2oct&label=Profile%20views&color=0e75b6&style=flat" alt="atul2oct" /> </p>
+<h3 align="left">
+I'm a passionate web developer with a strong proficiency in the MERN stack and a wide range of front-end technologies. I enjoy building efficient, scalable, and user-friendly web applications.
+</h3>
 
 <p align="left">
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=atul2oct&theme=dracula" />
+  <img src="https://komarev.com/ghpvc/?username=atul2oct&label=Profile%20views&color=0e75b6&style=flat" alt="atul2oct" />
 </p>
+
+<p align="left">
+  <img 
+    src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=atul2oct&theme=dracula&row=1&column=4"
+    height="110"
+  />
+</p>
+
+<br clear="both"/>
 
 - 🌱 I’m currently learning **NextJs, Typescript, Springboot**
   
