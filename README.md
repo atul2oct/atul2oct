@@ -84,7 +84,7 @@
 
 ## 📈 Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul2oct&layout=compact&theme=dracula&langs_count=10&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atul2oct&layout=compact&theme=dracula)
 
 ![Atul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=atul2oct&show_icons=true&theme=dracula)
 
