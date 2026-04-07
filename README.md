@@ -19,28 +19,34 @@
 - 📫 How to reach me **atulcsjob@gmail.com**
 &nbsp;
 
-## 🤝 Connect with me: 
+## 🤝 Connect with me:
 <div align="left">
-  
+
 <a href="https://github.com/atul2oct" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://linkedin.com/in/brigadieratul" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:atulcsjob@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://www.leetcode.com/atul2oct" target="blank">
-<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"
+       alt="github" height="40" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/wwwmyfoot" target="blank">
-<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/brigadieratul" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"
+       alt="linkedin" height="40" style="margin-bottom: 5px;" />
 </a>
+
+<a href="mailto:atulcsjob@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+       alt="gmail" height="40" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.leetcode.com/atul2oct" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"
+       alt="leetcode" height="40" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/wwwmyfoot" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+       alt="geeksforgeeks" height="40" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 &nbsp;
