@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul2oct&label=Profile%20views&color=0e75b6&style=flat" alt="atul2oct" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul2oct" alt="atul2oct" /></a> </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=atul2oct&theme=dracula&row=1&column=4" />
+</p>
 
 - 🌱 I’m currently learning **NextJs, Typescript, Springboot**
   
