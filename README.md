@@ -88,3 +88,9 @@
 ![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atul2oct&show_icons=true&theme=dracula)
 
 ![Atul's Streak](https://streak-stats.demolab.com/?user=atul2oct&theme=dracula)
+
+## Visitor count
+![Visitor Count](https://count.getloli.com/get/@atul2oct?theme=booru-r6gdrawfriends)
+
+## Code Stats
+![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atul2oct&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)
